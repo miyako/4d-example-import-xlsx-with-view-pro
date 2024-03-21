@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="vp-import-example" uuid="6C157AA9A80D448AB245DA1043544F1C" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>
