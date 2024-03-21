@@ -2,6 +2,10 @@
 
 オフスクリーンエリアを使用してXLSXを取り込む例題です。
 
+クラスは敢えて使用していません。
+
+セットアップ（`VP Run offscreen area`）とインポート（`VP IMPORT DOCUMENT`）は非同期処理，エクスポート（`VP Export to object`）は同期処理なのがポイントです。
+
 <img src="https://github.com/miyako/4d-example-import-xlsx-with-view-pro/assets/1725068/a24e3cea-1765-4ff9-ab86-e62e63bf8490" style="width:400px;height:auto" />
 
 ```4d
